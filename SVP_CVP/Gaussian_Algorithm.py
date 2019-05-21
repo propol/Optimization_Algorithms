@@ -1,5 +1,4 @@
 import numpy as np
-import sympy as sym
 
 b1 = np.array([2, 1])
 b2 = np.array([3, 2])
