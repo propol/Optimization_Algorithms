@@ -1,3 +1,3 @@
 **SVP_CVP** brute force Algorithms
 
-**Gauss-Lagrange** algorithm to be added to solve SVP.
+**Gauss-Lagrange** algorithm to solve SVP.
