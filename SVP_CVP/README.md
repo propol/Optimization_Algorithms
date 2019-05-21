@@ -1,3 +1,3 @@
 **SVP_CVP** brute force Algorithms
 
-Gaussian Distribution sampling to be added to solve SVP.
+**Gauss-Lagrange** algorithm to be added to solve SVP.
