@@ -52,7 +52,6 @@ class Ant(object):
         self.ant_path = []
         self.pheromone_delta = []
         self.allowed = [i for i in range(graph.rank)]
-        self.eta = [[0 if i == j else 1 / graph.matrix[i][j] for j in range(graph.rank)] for i in range(graph.rank)]
         start = random.randint(0, graph.rank - 1)
         self.ant_path.append(start)
         self.current = start
