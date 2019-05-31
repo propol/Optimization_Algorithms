@@ -1,3 +1,5 @@
-**SVP_CVP** brute force Algorithms
+**SVP_CVP** brute force Algorithms.
+
+**Brute Force Finder** script to determine if a target vector belongs in a lattice.
 
 **Gauss-Lagrange** algorithm to solve SVP.
