@@ -1,3 +1,4 @@
+#Gaussian Algorithm as a stand-alone function
 import numpy as np
 
 
