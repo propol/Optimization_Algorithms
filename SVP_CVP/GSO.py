@@ -1,4 +1,5 @@
 #Gram - Schmidt Orthogonalization
+#Works for N-dimensional vectors
 import numpy as np
 
 
