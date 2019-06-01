@@ -1,1 +1,1 @@
-Implementation of the **Ant Colony Optimization** algorithm to solve **TSP**
+Implementation of the **Ant Colony Optimization** algorithm to solve **TSP**.
