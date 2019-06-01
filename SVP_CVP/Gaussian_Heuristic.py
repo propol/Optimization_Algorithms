@@ -1,3 +1,4 @@
+#Calculates the Gaussian Heuristic of a lattice L
 import numpy as np
 from math import gamma
 from math import pi
