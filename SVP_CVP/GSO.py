@@ -1,3 +1,4 @@
+#Gram - Schmidt Orthogonalization
 import numpy as np
 
 
