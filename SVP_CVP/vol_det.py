@@ -1,3 +1,5 @@
+#Miscellaneous script
+#Check whether the determinant of an open base of a lattice is equal to its orignial base
 import numpy as np
 import GA
 
@@ -8,5 +10,5 @@ GA.ga(open_base)
 
 if np.linalg.det(original_base) == np.linalg.det(open_base):
     print("True")
-
-
+else:
+    print("False")
