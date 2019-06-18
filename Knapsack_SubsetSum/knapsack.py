@@ -1,8 +1,8 @@
-#from fpylll import * 
+from fpylll import * 
 import random,math,operator,time 
 from operator import itemgetter 
 import numpy as np 
-#from __future__ import division 
+from __future__ import division 
 from numpy import matrix 
 from numpy import linalg as LA 
 from numpy import matlib
@@ -18,7 +18,7 @@ def find_random(n, d, hamming):
     solution = rand_bin_array(n-hamming,n)
     a0 = np.dot(solution, a)
     #return a, a0, density, sum(solution), len(solution), solution
-    return a,0,sum(solution)
+    return a,a0,sum(solution)
 
 def fp2mat(A): 
     L = np.zeros(shape=(A.nrows,A.ncols)) 
